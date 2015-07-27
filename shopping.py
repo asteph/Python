@@ -24,3 +24,4 @@ def compute_bill(food):
     return total
     
 print compute_bill(shopping_list), 'dollars'
+print stock
